@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Pedro Lucas! 👋</h1>
+⅗<h1 align="center">Olá, eu sou o Pedro Lucas! 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Estudante%20Ativo-blue?style=flat-square">
@@ -60,7 +60,7 @@ Atualmente, na graduação, estou aprofundando meus conhecimentos em:
 ## 📫 Como me encontrar
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lucas-b66187349)
-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario) *(Substitua pelo seu @)*
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario) 
 
 ---
 
